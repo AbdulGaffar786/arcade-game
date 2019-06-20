@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-image: url('../images/pic.jpg');
+}
+.done{
+  width: 33%;
+  margin: 1% auto;
+  font-size: 25px;
+  color: #ddd;
+  font-family: 'pacifio', cursive;
+  border: 2px solid #ddd;
+}
